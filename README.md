@@ -40,3 +40,7 @@ Execute `awx_install.sh`
 |-ext|Will portforward AWX|
 
 <img src="awx_installing.png" alt="" width="600" />
+
+## Assessing AWX
+
+After installation, the script will display your credentials and the IP address + port for you. You can access it by visiting on your browser.
