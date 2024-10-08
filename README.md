@@ -8,6 +8,7 @@ For manual installation, do refer to my write up [here](https://time0ut07.github
 
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
+- [Assessing AWX](#Assessing-AWX)
 
 ## Prerequisites
 
